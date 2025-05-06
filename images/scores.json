@@ -1,0 +1,17 @@
+{
+    "student001": {
+        "test1": 85,
+        "test2": 78,
+        "test3": 92
+    },
+    "student002": {
+        "test1": 74,
+        "test2": 88,
+        "test3": 81
+    },
+    "student003": {
+        "test1": 90,
+        "test2": 91,
+        "test3": 89
+    }
+}
